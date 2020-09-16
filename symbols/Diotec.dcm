@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PAM242x
+D PWM step-up DC/DC converter, 520 kHz fixed  frequency, non-synchronous, internal power MOSFET, current-mode, output up to 24 V, programmable soft-start, OVP, OCP, thermal protection, SOP-8(EP) Package
+$ENDCMP
+#
+#End Doc Library
