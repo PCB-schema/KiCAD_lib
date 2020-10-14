@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DAC8564
+D 16-Bit, Quad Channel, Ultra-Low Glitch, Voltage Output DAC with 2.5V, 2ppm/°C Internal Reference, TSSOP-16
+K DAC, Internal, Reference
+$ENDCMP
+#
+$CMP LCD_I2C
+D LCD connected on PCF8574 expander, typically HD44780 of various size
+K HD44780, PCF8574, LCD, 16x2, 20x4
+$ENDCMP
+#
+#End Doc Library
