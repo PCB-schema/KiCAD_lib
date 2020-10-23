@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS131M06
+D ADS131M06 6-Channel, Simultaneously-Sampling, 24-Bit, Delta-Sigma ADC
+K ADS131, ADC, Delta-Sigma
+$ENDCMP
+#
 $CMP DAC8564
 D 16-Bit, Quad Channel, Ultra-Low Glitch, Voltage Output DAC with 2.5V, 2ppm/°C Internal Reference, TSSOP-16
 K DAC, Internal, Reference
