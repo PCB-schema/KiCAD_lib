@@ -1,4 +1,4 @@
-(module ST-LinkV2_FakeStm8Stm32_vertical (layer F.Cu) (tedit 5F932B86)
+(module ST-LinkV2_FakeStm8Stm32_vertical (layer F.Cu) (tedit 5FA1B9F3)
   (fp_text reference REF** (at 5.08 -7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -147,9 +147,4 @@
   (pad 3 thru_hole oval (at 15.24 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 12.7 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 12.7 -5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KIMY3DMOD}/miscellaneous.3dshapes/Encoder_12_4x13_4_pitch2_5mm_wSw_cp.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

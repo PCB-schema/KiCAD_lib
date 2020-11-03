@@ -27,6 +27,12 @@ K Photocouple highspeed non inverting push-pull output
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770
 $ENDCMP
 #
+$CMP QSE159
+D Plastic Silicon Photosensor
+K opto IR
+F http://www.onsemi.com/pub/Collateral/QSE159-D.pdf
+$ENDCMP
+#
 $CMP TC7660S
 D Switched-Capacitor Voltage Converter, 1.5V to 10.0V operating supply voltage, 10mA with a 0.5V output drop, SO-8/DIP-8/µMAX-8/TO-99
 K monolithic CMOS switched capacitor voltage converter invert double divide multiply boost
