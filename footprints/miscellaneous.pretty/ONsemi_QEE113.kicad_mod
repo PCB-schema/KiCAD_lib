@@ -1,4 +1,4 @@
-(module ONsemi_QEE113 (layer F.Cu) (tedit 5FA1BE18)
+(module ONsemi_QEE113 (layer F.Cu) (tedit 5FAC397C)
   (descr "PhotoTransistor, sidelooker package, RM2.54")
   (tags "PhotoTransistor sidelooker package RM2.54")
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
@@ -37,4 +37,9 @@
   (fp_line (start -0.45 -0.93) (end -1.03 -0.35) (layer F.Fab) (width 0.1))
   (pad 1 thru_hole oval (at 0 2.54) (size 2 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole roundrect (at 0 0) (size 2 1.6) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.156))
+  (model ${KIMY3DMOD}/miscellaneous.3dshapes/QEE113.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
