@@ -16,6 +16,11 @@ K diode Schottky
 F http://www.vishay.com/docs/88526/1n5820.pdf
 $ENDCMP
 #
+$CMP Eagle_12BHC186P
+D Cylindrical Battery Contacts, Clips, Holders & Springs 2X18650 PARALLEL CONNECTION
+K 18650, Li-ion, battery, holder, basket
+$ENDCMP
+#
 $CMP LCD_I2C
 D LCD connected on PCF8574 expander, typically HD44780 of various size
 K HD44780, PCF8574, LCD, 16x2, 20x4
